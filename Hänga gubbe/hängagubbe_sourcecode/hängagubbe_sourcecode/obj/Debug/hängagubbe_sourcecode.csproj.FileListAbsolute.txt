@@ -1,0 +1,10 @@
+F:\Programmering_1\Projekt\Hänga gubbe\hängagubbe_sourcecode\hängagubbe_sourcecode\obj\Debug\hängagubbe_sourcecode.csprojResolveAssemblyReference.cache
+F:\Programmering_1\Projekt\Hänga gubbe\hängagubbe_sourcecode\hängagubbe_sourcecode\obj\Debug\hängagubbe_sourcecode.hänga_Gubbe.resources
+F:\Programmering_1\Projekt\Hänga gubbe\hängagubbe_sourcecode\hängagubbe_sourcecode\obj\Debug\hängagubbe_sourcecode.Properties.Resources.resources
+F:\Programmering_1\Projekt\Hänga gubbe\hängagubbe_sourcecode\hängagubbe_sourcecode\obj\Debug\hängagubbe_sourcecode.csproj.GenerateResource.Cache
+F:\Programmering_1\Projekt\Hänga gubbe\hängagubbe_sourcecode\hängagubbe_sourcecode\obj\Debug\hängagubbe_sourcecode.csproj.CoreCompileInputs.cache
+F:\Programmering_1\Projekt\Hänga gubbe\hängagubbe_sourcecode\hängagubbe_sourcecode\bin\Debug\hängagubbe_sourcecode.exe.config
+F:\Programmering_1\Projekt\Hänga gubbe\hängagubbe_sourcecode\hängagubbe_sourcecode\bin\Debug\hängagubbe_sourcecode.exe
+F:\Programmering_1\Projekt\Hänga gubbe\hängagubbe_sourcecode\hängagubbe_sourcecode\bin\Debug\hängagubbe_sourcecode.pdb
+F:\Programmering_1\Projekt\Hänga gubbe\hängagubbe_sourcecode\hängagubbe_sourcecode\obj\Debug\hängagubbe_sourcecode.exe
+F:\Programmering_1\Projekt\Hänga gubbe\hängagubbe_sourcecode\hängagubbe_sourcecode\obj\Debug\hängagubbe_sourcecode.pdb
